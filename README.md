@@ -10,5 +10,5 @@ numpy
 mathplotlib
 openCV
 
-## Acuracy graph
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+## Accuracy graph
+![Model Accuracy](https://github.com/sean-totaram/imageClassifier/blob/master/model%20accuracy.png?raw=true)
