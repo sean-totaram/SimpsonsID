@@ -16,4 +16,4 @@ A simple image classifier using a convolutional neural network
 ![Model Accuracy](https://github.com/sean-totaram/imageClassifier/blob/master/model%20accuracy.png?raw=true)
 
 ## Data used for testing
-[Fruit-360](https://www.kaggle.com/moltean/fruits)
+[Simpsons Characters](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
