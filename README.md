@@ -13,7 +13,7 @@ A simple image classifier using a convolutional neural network
 
 
 ## Accuracy graph
-![Model Accuracy](https://github.com/sean-totaram/imageClassifier/blob/master/model%20accuracy.png?raw=true)
+![Model Accuracy](https://github.com/sean-totaram/imageClassifier/blob/master/model_accuracy.png?raw=true)
 
 ## Dataset used
 [Simpsons Characters](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
