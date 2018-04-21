@@ -1,4 +1,4 @@
-# Image Classifier
+# Simpsons Identifier
 
 A simple image classifier using a convolutional neural network
 
@@ -15,5 +15,5 @@ A simple image classifier using a convolutional neural network
 ## Accuracy graph
 ![Model Accuracy](https://github.com/sean-totaram/imageClassifier/blob/master/model%20accuracy.png?raw=true)
 
-## Data used for testing
+## Dataset used
 [Simpsons Characters](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
